@@ -54,20 +54,23 @@ ______________________________
 |10.......................   |
 |11.................         |
 |12.bersabar                 |
-|13.✓✓✓✓✓✓✓✓✓✓✓Done         |
-|14.Subscrib\\\\\\\\\        |
-|15.###########100%
+|13.>>>>>>>>>>>>✓Done        |
+|14.Subscrib gak subscribe   |
+|15.gw ambil balik akun lu.  |
 |16.melanjutkan progses.     |
 |17.jangan lupa.             |
 |18.tersenyum....            |
 |19.File Ditemukan....       |
-|20.membuka File.......      |
-|.                           |
-|____________________________|
-Peringatan buat kalian semua jangan pernah menyalah gunakan script orang lain
->>>>>>>>>>>>>> ....
-"
-echo "\033[32;1mNomor Hp anda : "
+|20.membuka File....         |
+------------------------------
+Baca dalam kotak
+Ss in kalo bisa kirim ke
++62857319280451 "
+sleep 3
+echo "subsDuluWoi Data kalian terlihat.."
+sleep 1
+echo "biar keliatan siapa yang chat gw"
+echo "\033[32;1mNomor hp anda: "
 read p;
 
 sleep 2
@@ -89,7 +92,8 @@ sleep 4
 echo "########80%"
 sleep 3
 echo "#########90%"
-sleep 4
+sleep 21
+
 echo "##########100%"
 sleep 3
 echo "_____________________________________"
@@ -99,7 +103,7 @@ sleep 2
 echo "progses di butuhkan"
 sleep 2
 echo "Estrack"
-sleep 2
+sleep 11
 echo "xx10%"
 sleep 2
 echo "xxxxxxxxxx100%"
@@ -109,11 +113,11 @@ sleep 2
 echo "melacak kata sandi Anda****"
 sleep 2
 echo " bersabar mencari berkas sandi*"
-sleep 2
+sleep 19
 echo "Membuka Viss"
-sleep 2
+sleep 4
 echo "kata Sandi Anda 👇👇"
-sleep 2
+sleep 16
 echo "====>>>    ZahraKechil31"
 sleep 2
 echo "____________________________________"
@@ -121,3 +125,4 @@ sleep 2
 echo "jangan lupa untuk kembali lagi"
 sleep 2
 echo "Subscribe Channel gw Juga"
+
