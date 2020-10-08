@@ -35,32 +35,14 @@ sleep 1
 echo "\033[32;1m[y/n] ! "
 read p;
 
-sleep 2
+sleep 4
 
 echo "\033[32;1m
 #-PENCARIAN DALAM progses-#
 ______________________________
-|1.pencarian akun anda       |
-|2.harap bersabar sayang     |
-|3.pencarian di mulai        |
-|4.cek cek cek..             |
-|5.progses ...               |
-|6.dimulai......             |
-|7.Subs dulu chnl            |
-|8.Ridwan Kechil.....        |
-|9.Jangan lupa .......       |
-|10.......................   |
-|11.................         |
-|12.bersabar                 |
-|13.✓✓✓✓✓✓✓✓✓✓✓Done         |
-|14.Subscrib\\\\\\\\\        |
-|15.###########100%
-|16.melanjutkan progses.     |
-|17.jangan lupa.             |
-|18.tersenyum....            |
-|19.File Ditemukan....       |
-|20.membuka File.......      |
-|.                           |
+|1.subscribe dulu biar berkah|
+|2.klik y untuk melanjutkan  |
+|3.Subscribe> Ridwan Kechil  |
 |____________________________|
 Peringatan buat kalian semua jangan pernah menyalah gunakan script orang lain
 >>>>>>>>>>>>>> ....
@@ -103,19 +85,21 @@ sleep 3
 echo "xx10%"
 sleep 2
 echo "xxxxxxxxxx100%"
-sleep 3
+sleep 1
+echo "tunggu sampai selesai"
+sleep 4
 echo "_0%"
-sleep 2
+sleep 1
 echo "##_20%"
 sleep 2
 echo " ####_40%"
-sleep 2
+sleep 3
 echo "######_60%"
-sleep 2
+sleep 4
 echo "########_80%"
-sleep 2
+sleep 8
 echo "##########_100%"
 sleep 4
 echo "____________________________________"
 sleep 4
-echo "buka file sh bash1"
+echo "ketikkan >>>  sh bash1"
