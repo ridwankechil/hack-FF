@@ -6,4 +6,4 @@ pkg install bash
 git clone https://github.com/RidwanKechil/hack-FF
 #menjalankan
 cd hack-FF
-sh 
+sh Carry.sh
